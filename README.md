@@ -1,2 +1,1 @@
-# look
-Look's repo
+# Look's repo
